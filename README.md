@@ -6,6 +6,6 @@ Positive: I enjoyed the process of using HTML and CSS in order to create and bui
 
 Negative: I struggled with remembering how to utilize float, positioning div's and flexbox.
 
-Outcome: It's not perfect but a good effort and a good start
+Outcome: It's not perfect but a good effort and a good start.
 
 Grade: B
