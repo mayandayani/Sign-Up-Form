@@ -9,3 +9,5 @@ Negative: I struggled with remembering how to utilize float, positioning div's a
 Outcome: It's not perfect but a good effort and a good start.
 
 Grade: B
+
+![Picture of final result](Screenshot%202022-12-02%20000330.png)
